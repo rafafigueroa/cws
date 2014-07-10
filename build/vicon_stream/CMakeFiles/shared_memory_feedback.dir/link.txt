@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libshared_memory_feedback.so -o /home/rafa/cws/devel/lib/libshared_memory_feedback.so CMakeFiles/shared_memory_feedback.dir/src/shared_memory_feedback.cpp.o 

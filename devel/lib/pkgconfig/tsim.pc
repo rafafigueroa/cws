@@ -1,0 +1,8 @@
+prefix=/home/rafa/cws/devel
+
+Name: tsim
+Description: Description of tsim
+Version: 0.0.0
+Cflags: -I/home/rafa/cws/src/tsim/include
+Libs: -L/home/rafa/cws/devel/lib 
+Requires: roscpp rospy turtlesim std_msgs message_runtime geometry_msgs

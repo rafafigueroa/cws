@@ -1,0 +1,8 @@
+prefix=/home/rafa/cws/devel
+
+Name: vicon_stream
+Description: Description of vicon_stream
+Version: 0.0.0
+Cflags: -I/home/rafa/cws/src/vicon_stream/include
+Libs: -L/home/rafa/cws/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime geometry_msgs

@@ -1,0 +1,8 @@
+prefix=/home/rafa/cws/devel
+
+Name: Vicon_Feedback
+Description: Description of Vicon_Feedback
+Version: 0.0.0
+Cflags: -I/home/rafa/cws/src/Vicon_Feedback/include
+Libs: -L/home/rafa/cws/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime geometry_msgs

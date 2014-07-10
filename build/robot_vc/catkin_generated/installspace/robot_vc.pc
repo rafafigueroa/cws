@@ -1,0 +1,8 @@
+prefix=/home/rafa/cws/install
+
+Name: robot_vc
+Description: Description of robot_vc
+Version: 0.0.0
+Cflags: -I/home/rafa/cws/install/include
+Libs: -L/home/rafa/cws/install/lib 
+Requires: roscpp rospy std_msgs message_runtime geometry_msgs

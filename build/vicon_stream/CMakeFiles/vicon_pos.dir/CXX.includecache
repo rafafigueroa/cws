@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafa/cws/src/vicon_stream/src/Client.h
+string
+-
+
+/home/rafa/cws/src/vicon_stream/src/vicon_pos.cpp
+vicon_pos.h
+/home/rafa/cws/src/vicon_stream/src/vicon_pos.h
+stdlib.h
+-
+
+/home/rafa/cws/src/vicon_stream/src/vicon_pos.h
+Client.h
+/home/rafa/cws/src/vicon_stream/src/Client.h
+vector
+-
+iostream
+-
+string
+-
+

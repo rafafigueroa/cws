@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafa/cws/src/vicon_stream/src/shared_memory_feedback.cpp
+shared_memory_feedback.h
+/home/rafa/cws/src/vicon_stream/src/shared_memory_feedback.h
+
+/home/rafa/cws/src/vicon_stream/src/shared_memory_feedback.h
+semaphore.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+sys/types.h
+-
+memory.h
+-
+errno.h
+-
+

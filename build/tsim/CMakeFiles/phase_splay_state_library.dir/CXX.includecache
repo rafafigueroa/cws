@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafa/cws/src/tsim/src/phase_splay_state_library.cpp
+phase_splay_state_library.h
+/home/rafa/cws/src/tsim/src/phase_splay_state_library.h
+
+/home/rafa/cws/src/tsim/src/phase_splay_state_library.h
+math.h
+-
+stdio.h
+-
+iostream
+-
+

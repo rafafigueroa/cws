@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "hitwall")
+set(hitwall_MAINTAINER "turtlebot <turtlebot@todo.todo>")
+set(hitwall_DEPRECATED "")
+set(hitwall_VERSION "0.0.0")
+set(hitwall_BUILD_DEPENDS "geometry_msgs" "message_generation" "message_runtime" "roscpp" "rospy" "std_msgs" "turtlesim" "kobuki_msgs" "nav_msgs" "sensor_msgs" "gazebo_msgs" "gazebo_ros" "tf")
+set(hitwall_RUN_DEPENDS "geometry_msgs" "message_runtime" "roscpp" "rospy" "std_msgs" "turtlesim" "kobuki_msgs" "nav_msgs" "sensor_msgs" "gazebo_msgs" "gazebo_ros" "tf")
+set(hitwall_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tsim")
+set(tsim_MAINTAINER "rafa <rafa@todo.todo>")
+set(tsim_DEPRECATED "")
+set(tsim_VERSION "0.0.0")
+set(tsim_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "geometry_msgs" "turtlesim")
+set(tsim_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "message_runtime" "turtlesim")
+set(tsim_BUILDTOOL_DEPENDS "catkin")

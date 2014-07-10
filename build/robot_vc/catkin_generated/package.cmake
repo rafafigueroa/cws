@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "robot_vc")
+set(robot_vc_MAINTAINER "turtlebot <turtlebot@todo.todo>")
+set(robot_vc_DEPRECATED "")
+set(robot_vc_VERSION "0.0.0")
+set(robot_vc_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "geometry_msgs")
+set(robot_vc_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "message_runtime")
+set(robot_vc_BUILDTOOL_DEPENDS "catkin")

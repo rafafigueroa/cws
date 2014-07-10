@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafa/cws/src/robot_vc/src/shared_memory.cpp
+shared_memory.h
+/home/rafa/cws/src/robot_vc/src/shared_memory.h
+
+/home/rafa/cws/src/robot_vc/src/shared_memory.h
+semaphore.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+sys/types.h
+-
+memory.h
+-
+errno.h
+-
+

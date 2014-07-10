@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libvicon_pos.so -o /home/rafa/cws/devel/lib/libvicon_pos.so CMakeFiles/vicon_pos.dir/src/vicon_pos.cpp.o 

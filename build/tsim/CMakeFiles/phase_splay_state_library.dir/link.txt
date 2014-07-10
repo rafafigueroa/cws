@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libphase_splay_state_library.so -o /home/rafa/cws/devel/lib/libphase_splay_state_library.so CMakeFiles/phase_splay_state_library.dir/src/phase_splay_state_library.cpp.o 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "Vicon_Feedback")
+set(Vicon_Feedback_MAINTAINER "turtlebot <turtlebot@todo.todo>")
+set(Vicon_Feedback_DEPRECATED "")
+set(Vicon_Feedback_VERSION "0.0.0")
+set(Vicon_Feedback_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "geometry_msgs")
+set(Vicon_Feedback_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "message_runtime")
+set(Vicon_Feedback_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/rafa/cws/devel
+
+Name: quad
+Description: Description of quad
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rafa/cws/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime geometry_msgs kobuki_msgs nav_msgs sensor_msgs hector_uav_msgs gazebo_msgs tf gazebo_ros

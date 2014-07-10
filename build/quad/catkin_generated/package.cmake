@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "quad")
+set(quad_MAINTAINER "rafa <rafa@todo.todo>")
+set(quad_DEPRECATED "")
+set(quad_VERSION "0.0.0")
+set(quad_BUILD_DEPENDS "geometry_msgs" "message_generation" "message_runtime" "roscpp" "rospy" "std_msgs" "turtlesim" "kobuki_msgs" "nav_msgs" "sensor_msgs" "gazebo_msgs" "gazebo_ros" "hector_uav_msgs" "tf")
+set(quad_RUN_DEPENDS "geometry_msgs" "message_runtime" "roscpp" "rospy" "std_msgs" "turtlesim" "kobuki_msgs" "nav_msgs" "sensor_msgs" "gazebo_msgs" "gazebo_ros" "hector_uav_msgs" "tf")
+set(quad_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "vicon_socket")
+set(vicon_socket_MAINTAINER "turtlebot <turtlebot@todo.todo>")
+set(vicon_socket_DEPRECATED "")
+set(vicon_socket_VERSION "0.0.0")
+set(vicon_socket_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "geometry_msgs")
+set(vicon_socket_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "message_runtime")
+set(vicon_socket_BUILDTOOL_DEPENDS "catkin")
